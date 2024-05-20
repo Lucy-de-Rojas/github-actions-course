@@ -1,0 +1,20 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update":"git add . && git commit -m 'auto update' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucy-de-Rojas/github-actions-course.git"
+  },
+  "author": "Lucy de Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucy-de-Rojas/github-actions-course/issues"
+  },
+  "homepage": "https://github.com/Lucy-de-Rojas/github-actions-course#readme"
+}
